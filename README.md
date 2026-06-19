@@ -46,3 +46,4 @@ space-ranger/
 ## 🚀 Deploy to GitHub Pages
 This project is configured to auto-build and deploy via GitHub Actions.
 Push to `main` branch → game goes live automatically.
+ 
