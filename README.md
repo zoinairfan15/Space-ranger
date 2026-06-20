@@ -3,7 +3,7 @@
 A Space Invaders-style game built with Python & Pygame, playable in the browser via WebAssembly (Pygbag).
 
 ## 🎮 Play Online
-👉 **[Play Space Ranger](https://YOUR_USERNAME.github.io/space-ranger/)**
+👉 **[Play Space Ranger](https://zoinairfan15.github.io/space-ranger/)**
 
 ## Controls
 | Key | Action |
