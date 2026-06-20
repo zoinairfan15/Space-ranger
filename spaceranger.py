@@ -32,9 +32,9 @@ class SpaceRanger:
 
         # Sounds
         try:
-            self.laser_sound = pygame.mixer.Sound("sound1/laser.wav")
-            self.chicken_sound = pygame.mixer.Sound("sound1/chicken.wav")
-            self.rocket_hit_sound = pygame.mixer.Sound("sound1/rocket_hit.wav")
+            self.laser_sound = pygame.mixer.Sound("sound1/laser.ogg")
+            self.chicken_sound = pygame.mixer.Sound("sound1/chicken.ogg")
+            self.rocket_hit_sound = pygame.mixer.Sound("sound1/rocket_hit.ogg")
         except:
             self.laser_sound = None
             self.chicken_sound = None
